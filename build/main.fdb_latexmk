@@ -1,11 +1,11 @@
 # Fdb version 4
-["biber build/main"] 1767132682.9756 "build/main.bcf" "build/main.bbl" "build/main" 1767134797.50241 0
-  "build/main.bcf" 1767134796 108053 1931562b9a24e4c6de9d2d7368ff5b3a "pdflatex"
+["biber build/main"] 1767132682.9756 "build/main.bcf" "build/main.bbl" "build/main" 1767135150.15037 0
+  "build/main.bcf" 1767135149 108053 1931562b9a24e4c6de9d2d7368ff5b3a "pdflatex"
   (generated)
   "build/main.bbl"
   "build/main.blg"
   (rewritten before read)
-["pdflatex"] 1767134793.9401 "h:/Mi unidad/Doctorado/Protocolo/Doctorado_Protocolo/main.tex" "build/main.pdf" "main" 1767134797.52865 0
+["pdflatex"] 1767135145.98606 "h:/Mi unidad/Doctorado/Protocolo/Doctorado_Protocolo/main.tex" "build/main.pdf" "main" 1767135150.21864 0
   "C:/Users/isaac/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1766440534 163207 8b397a28da8cf491d72adf658ad1aa93 ""
   "C:/Users/isaac/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1760675751 13321623 2dd50bc84c3d1224b16da64ea6857f17 ""
   "C:/Users/isaac/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -193,12 +193,12 @@
   "C:/Users/isaac/AppData/Local/Programs/MiKTeX/tex/latex/translations/translations.sty" 1644048522 44247 2188b95d0ee74e31eca4d316263c58a7 ""
   "C:/Users/isaac/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/isaac/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "build/main.aux" 1767134796 664 63a7697bf2972e4476a23b5de2051905 "pdflatex"
+  "build/main.aux" 1767135149 664 63a7697bf2972e4476a23b5de2051905 "pdflatex"
   "build/main.bbl" 1767132685 0 d41d8cd98f00b204e9800998ecf8427e "biber build/main"
-  "build/main.out" 1767134796 106 1a505e85fb7be3736a75981ab8224bbc "pdflatex"
-  "build/main.run.xml" 1767134796 2224 b58fdd43a2e991125a5439c21704f61b "pdflatex"
-  "build/main.toc" 1767134796 99 84a6f4a80b950c8c54eaefb795b971ac "pdflatex"
-  "capitulos/Introduccion.tex" 1767134793 151 9d18288156202caccf78b8833b396827 ""
+  "build/main.out" 1767135149 106 1a505e85fb7be3736a75981ab8224bbc "pdflatex"
+  "build/main.run.xml" 1767135149 2224 b58fdd43a2e991125a5439c21704f61b "pdflatex"
+  "build/main.toc" 1767135149 99 84a6f4a80b950c8c54eaefb795b971ac "pdflatex"
+  "capitulos/Introduccion.tex" 1767135145 180 a2df594b0c58eca0b82757d94f25e339 ""
   "h:/Mi unidad/Doctorado/Protocolo/Doctorado_Protocolo/main.tex" 1767132708 2118 d221c032b6b9209a704c7e6283c3bb1f ""
   "main.tex" 1767132708 2118 d221c032b6b9209a704c7e6283c3bb1f ""
   (generated)
