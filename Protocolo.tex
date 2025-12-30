@@ -1,0 +1,62 @@
+\documentclass[letterpaper, 12pt]{report} % Tipo de Documento
+\usepackage[spanish, es-nodecimaldot]{babel} \usepackage[utf8]{inputenc} % Idioma
+\usepackage[T1]{fontenc} \usepackage{times} % Times New Roman
+\usepackage{setspace} % Espaciado
+\usepackage[top=2.5cm, bottom=3.0cm, left=3.0cm, right=2.5cm, headsep=0.5cm]{geometry} % Margenes
+\usepackage{fancyhdr} % Encabezado y Pie de Página
+\usepackage{graphicx} \usepackage{amsmath,amssymb} \usepackage{tikz}
+\usepackage{caption} \usepackage{subcaption} \usepackage{float}
+\usepackage{booktabs} \usepackage{longtable}
+\usepackage{array} \usepackage{siunitx}
+\usepackage{fancyhdr} \usepackage{tocloft}
+\usepackage{titlesec} \usepackage{hyperref}
+\usepackage{biblatex} \usepackage{csquotes}
+
+\title{Protocolo Doctorado} \author{M.Sc. Isaac Haro Zamora}
+
+% --------- ESPACIADO ------------
+\setlength{\parskip}{6pt} % Espaciado
+\widowpenalty=10000 \clubpenalty=10000 \displaywidowpenalty=10000 % CONTROL DE VIUDAS Y HUERFANAS
+% --------------------------------
+
+% ---------- FORMATO DE CAPÍTULOS---------
+\titleformat{\chapter}
+  {\centering\bfseries\MakeUppercase}
+  {\thechapter.}
+  {0.5em}
+  {}
+
+\titlespacing*{\chapter}{0pt}{0cm}{1.5em}
+% ----------------------------------------
+
+% --------- ENCABEZADO Y PIES ------------
+\setlength{\headheight}{16pt}
+\pagestyle{fancy} \fancyhf{} \fancyhead[R]{\leftmark} \fancyfoot[C]{\thepage}
+\renewcommand{\headrulewidth}{0.5pt} 
+\renewcommand{\footrulewidth}{0.5pt} 
+%-----------------------------------------
+
+% ----------- NUMERACIÓN -----------------
+\setcounter{secnumdepth}{3}
+\setcounter{tocdepth}{3}
+% ----------------------------------------
+
+\begin{document} \maketitle
+% ====== PAGINAS PRELIMINARES ======
+%\input{peliminares/portada.tex} \clearpage
+\pagenumbering{roman} 
+
+
+% ----- ÍNDICE -----
+{\centering\bfseries\MakeUppercase CONTENIDO\par} 
+\renewcommand{\contentsname}{} \tableofcontents \clearpage
+
+% ===== CUERPO DE TESIS =====
+\pagenumbering{arabic}
+\onehalfspacing
+
+\chapter{Introducción}
+\input{capitulos/Introduccion.tex}
+
+
+\end{document}
