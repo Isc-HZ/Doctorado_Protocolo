@@ -1,16 +1,16 @@
 # Fdb version 4
-["biber build/main"] 1767170987.66688 "build/main.bcf" "build/main.bbl" "build/main" 1767170998.94413 0
-  "build/main.bcf" 1767170998 108053 1931562b9a24e4c6de9d2d7368ff5b3a "pdflatex"
+["biber build/main"] 1767170987.66688 "build/main.bcf" "build/main.bbl" "build/main" 1767171475.24917 0
+  "build/main.bcf" 1767171474 108053 1931562b9a24e4c6de9d2d7368ff5b3a "pdflatex"
   (generated)
   "build/main.bbl"
   "build/main.blg"
   (rewritten before read)
-["pdflatex"] 1767170994.87475 "c:/Users/isaac/Desktop/Doctorado/Doctorado_Protocolo/main.tex" "build/main.pdf" "main" 1767170998.94566 0
-  "build/main.aux" 1767170998 664 63a7697bf2972e4476a23b5de2051905 "pdflatex"
+["pdflatex"] 1767171470.61924 "c:/Users/isaac/Desktop/Doctorado/Doctorado_Protocolo/main.tex" "build/main.pdf" "main" 1767171475.25151 0
+  "build/main.aux" 1767171474 664 63a7697bf2972e4476a23b5de2051905 "pdflatex"
   "build/main.bbl" 1767170994 0 d41d8cd98f00b204e9800998ecf8427e "biber build/main"
-  "build/main.out" 1767170998 106 1a505e85fb7be3736a75981ab8224bbc "pdflatex"
-  "build/main.run.xml" 1767170998 2224 b58fdd43a2e991125a5439c21704f61b "pdflatex"
-  "build/main.toc" 1767170998 99 84a6f4a80b950c8c54eaefb795b971ac "pdflatex"
+  "build/main.out" 1767171474 106 1a505e85fb7be3736a75981ab8224bbc "pdflatex"
+  "build/main.run.xml" 1767171474 2224 b58fdd43a2e991125a5439c21704f61b "pdflatex"
+  "build/main.toc" 1767171474 99 84a6f4a80b950c8c54eaefb795b971ac "pdflatex"
   "c:/Users/isaac/Desktop/Doctorado/Doctorado_Protocolo/main.tex" 1767170725 2118 d221c032b6b9209a704c7e6283c3bb1f ""
   "c:/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc" 1767130962 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "c:/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1767131785 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -200,7 +200,7 @@
   "c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1767139261 5587484 30eee748fa419a911c40b0c750dd21ba ""
   "c:/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1767139877 3635661 7be4c4e5805aff65a2c5a7890acf8818 ""
   "c:/texlive/2025/texmf.cnf" 1767139209 713 e69b156964470283e0530f5060668171 ""
-  "capitulos/Introduccion.tex" 1767170870 250 4bfd885a9d808f486eaf52a207ab1142 ""
+  "capitulos/Introduccion.tex" 1767171468 333 58ec6b937e4239816675125a07db771a ""
   "main.tex" 1767170725 2118 d221c032b6b9209a704c7e6283c3bb1f ""
   (generated)
   "build/main.aux"
