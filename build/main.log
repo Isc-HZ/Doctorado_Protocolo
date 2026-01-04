@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.16)  4 JAN 2026 14:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.16)  4 JAN 2026 16:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1079,55 +1079,63 @@ LaTeX Info: Redefining \% on input line 1.
 
 ]
 Cap\'{\i }tulo 1.
-(capitulos/Introduccion.tex)
+(capitulos/Introduccion.tex
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.65 ...put{capitulos/Introduccion.tex} \clearpage
-                                                   [1
+l.9 \clearpage
+               [1
 
+
+])
+
+LaTeX Info: Redefining \. on input line 65.
+LaTeX Info: Redefining \% on input line 65.
+Package babel Info: 'spanish' activates 'spanish' shorthands.
+(babel)             Reported on input line 65.
+[2
 
 ]
 Cap\'{\i }tulo 2.
 (capitulos/Antecedentes/Antecedentes.tex)
 
-[2
+[3
 
 
 ] (Protocolo/Protocolo.tex
 Cap\'{\i }tulo 3.
 
 
-[3
+[4
 
 
 ]
 Cap\'{\i }tulo 4.
 
 
-[4
+[5
 
 
 ]
 Cap\'{\i }tulo 5.
 
 
-[5
+[6
 
 
 ]
 Cap\'{\i }tulo 6.
 
 
-[6
+[7
 
 ])
 Cap\'{\i }tulo 7.
 (capitulos/Metodologia/Metodologia.tex)
 
-[7
+[8
 
 
 
@@ -1135,19 +1143,19 @@ Cap\'{\i }tulo 7.
 Cap\'{\i }tulo 8.
 (Protocolo/Cronograma.tex)
 
-[8
+[9
 
 
 ]
 Cap\'{\i }tulo 9.
 (Protocolo/Recursos.tex)
 
-[9
+[10
 
 
 ]
 
-[10
+[11
 
 
 ] (h:\Mi unidad\Doctorado\Protocolo\Doctorado_Protocolo\build\main.aux
@@ -1166,17 +1174,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 37362 strings out of 468081
- 753358 string characters out of 5425788
+ 37382 strings out of 468081
+ 753874 string characters out of 5425788
  1618875 words of memory out of 5000000
- 65481 multiletter control sequences out of 15000+600000
+ 65500 multiletter control sequences out of 15000+600000
  663390 words of font info for 86 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,6n,94p,2043b,2811s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,11n,94p,2043b,2811s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/isaac/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/isaac/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/isaac/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "h:\Mi unidad\Doctorado\Protocolo\Doctorado_Protocolo\build\main.pdf" (13 pages, 69595 bytes).
+Output written on "h:\Mi unidad\Doctorado\Protocolo\Doctorado_Protocolo\build\main.pdf" (14 pages, 70818 bytes).
 PDF statistics:
- 157 PDF objects out of 1000 (max. 8388607)
- 30 named destinations out of 1000 (max. 500000)
+ 162 PDF objects out of 1000 (max. 8388607)
+ 31 named destinations out of 1000 (max. 500000)
  117 words of extra memory for PDF output out of 10000 (max. 10000000)
 

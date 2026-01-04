@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber build/main"] 1767558556.44397 "build/main.bcf" "build/main.bbl" "build/main" 1767558831.19147 0
+["biber build/main"] 1767558556.44397 "build/main.bcf" "build/main.bbl" "build/main" 1767565261.87571 0
   "Referencias/Ref.bib" 1767558188 2676 995f99754329f1e1b62b13e335e9577b ""
-  "build/main.bcf" 1767558830 133996 c36c8a1f09485f35a6d7e488cec0c5f8 "pdflatex"
+  "build/main.bcf" 1767565260 133996 c36c8a1f09485f35a6d7e488cec0c5f8 "pdflatex"
   (generated)
   "build/main.bbl"
   "build/main.blg"
   (rewritten before read)
-["pdflatex"] 1767558825.73872 "h:/Mi unidad/Doctorado/Protocolo/Doctorado_Protocolo/main.tex" "build/main.pdf" "main" 1767558831.22115 0
+["pdflatex"] 1767565255.72586 "h:/Mi unidad/Doctorado/Protocolo/Doctorado_Protocolo/main.tex" "build/main.pdf" "main" 1767565261.93483 0
   "C:/Users/isaac/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1766440534 163207 8b397a28da8cf491d72adf658ad1aa93 ""
   "C:/Users/isaac/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1760675751 13321623 2dd50bc84c3d1224b16da64ea6857f17 ""
   "C:/Users/isaac/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -206,13 +206,13 @@
   "Protocolo/Cronograma.tex" 1767557886 0 d41d8cd98f00b204e9800998ecf8427e ""
   "Protocolo/Protocolo.tex" 1767557833 378 5922bcf356b27184edfb58017cee2373 ""
   "Protocolo/Recursos.tex" 1767557915 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "build/main.aux" 1767558830 2846 e6986e4546900af7df33c5b56a38f574 "pdflatex"
+  "build/main.aux" 1767565260 2847 71b411edf8fb589157ebee1c48cca51f "pdflatex"
   "build/main.bbl" 1767558560 11581 6db00b3eed4498eff5d637bfa08f1c75 "biber build/main"
-  "build/main.out" 1767558830 1525 2f60e33d8e6483e051fc17e08d1f0ebb "pdflatex"
-  "build/main.run.xml" 1767558830 2398 02d4f54f2c5db367dcd4a77613693891 "pdflatex"
-  "build/main.toc" 1767558830 953 054683ab95c12b53c008b944d7c27e86 "pdflatex"
+  "build/main.out" 1767565260 1525 2f60e33d8e6483e051fc17e08d1f0ebb "pdflatex"
+  "build/main.run.xml" 1767565260 2398 02d4f54f2c5db367dcd4a77613693891 "pdflatex"
+  "build/main.toc" 1767565260 954 d7ac6d96856fddf8afd2f4e11de219eb "pdflatex"
   "capitulos/Antecedentes/Antecedentes.tex" 1767557122 220 f9c4d15eeb9916cbc70b55dee913cebb ""
-  "capitulos/Introduccion.tex" 1767558813 460 c6a4466337e892ee7fbdc15a684c6d5c ""
+  "capitulos/Introduccion.tex" 1767565240 467 9200db51aa6090d19a7cc5ec0bf8a945 ""
   "capitulos/Metodologia/Metodologia.tex" 1767557478 130 93fe926a00acfd67a4d930aa2dc1d152 ""
   "h:/Mi unidad/Doctorado/Protocolo/Doctorado_Protocolo/main.tex" 1767558550 2899 0a0cca16be043067176345d654ed06df ""
   "main.tex" 1767558550 2899 0a0cca16be043067176345d654ed06df ""
