@@ -6,14 +6,14 @@
 \usepackage{fancyhdr} % Encabezado y Pie de Página
 \usepackage{graphicx} \usepackage{amsmath,amssymb} \usepackage{tikz}
 \usepackage{caption} \usepackage{subcaption} \usepackage{float}
-\usepackage{booktabs} \usepackage{longtable}
-\usepackage{array} \usepackage{siunitx}
-\usepackage{fancyhdr} \usepackage{tocloft}
-\usepackage{titlesec} \usepackage{hyperref}
-\usepackage{biblatex} \usepackage{csquotes}
+\usepackage{booktabs} \usepackage{longtable} \usepackage{hyperref} 
+\usepackage{array} \usepackage{siunitx} \usepackage{tocloft}
+\usepackage{titlesec}\usepackage[style=apa, backend=biber,natbib=true]{biblatex} \usepackage{csquotes}
 
 \title{Protocolo Doctorado} \author{M.Sc. Isaac Haro Zamora}
 
+\DeclareLanguageMapping{spanish}{spanish-apa}
+\bibliography{Referencias/Ref.bib}
 % --------- ESPACIADO ------------
 \setlength{\parskip}{6pt} % Espaciado
 \widowpenalty=10000 \clubpenalty=10000 \displaywidowpenalty=10000 % CONTROL DE VIUDAS Y HUERFANAS
@@ -23,6 +23,12 @@
 \titleformat{\chapter}
   {\centering\bfseries\MakeUppercase}
   {\thechapter.}
+  {0.5em}
+  {}
+
+\titleformat{\section}
+  {\bfseries\MakeUppercase}
+  {\hspace{1.5em}\thesection.}
   {0.5em}
   {}
 
@@ -45,18 +51,25 @@
 % ====== PAGINAS PRELIMINARES ======
 %\input{peliminares/portada.tex} \clearpage
 \pagenumbering{roman} 
-
+\chapter*{Resumen} \addcontentsline{toc}{chapter}{Resumen} 
+\input{peliminares/Resumen.tex} \clearpage
 
 % ----- ÍNDICE -----
-{\centering\bfseries\MakeUppercase CONTENIDO\par} 
+{\centering\bfseries\MakeUppercase CONTENIDO\par} \addcontentsline{toc}{chapter}{Contenido}
 \renewcommand{\contentsname}{} \tableofcontents \clearpage
 
 % ===== CUERPO DE TESIS =====
 \pagenumbering{arabic}
 \onehalfspacing
 
-\chapter{Introducción}
-\input{capitulos/Introduccion.tex}
+\chapter{Introducción} \input{capitulos/Introduccion.tex} \clearpage
+\chapter{Antecedentes} \input{capitulos/Antecedentes/Antecedentes.tex} \clearpage
+\input{Protocolo/Protocolo.tex} \clearpage %Formato de protocolo.
+\chapter{Metodología} \input{capitulos/Metodologia/Metodologia.tex} \clearpage
+\chapter{Cronograma} \input{Protocolo/Cronograma.tex} \clearpage
+\chapter{Recursos E Infraestructura} \input{Protocolo/Recursos.tex} \clearpage
 
+% ===== BIBLIOGRAFÍA =====
+\printbibliography
 
 \end{document}

@@ -185,24 +185,6 @@ INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\booktabs\booktabs.s
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\booktabs\booktabs.sty
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\tools\longtable.sty
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\tools\longtable.sty
-INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
-INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
-INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\siunitx\siunitx.sty
-INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\siunitx\siunitx.sty
-INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\translations\translations.sty
-INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\translations\translations.sty
-INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
-INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
-INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
-INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
-INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
-INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
-INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
-INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
-INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\tocloft\tocloft.sty
-INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\tocloft\tocloft.sty
-INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.sty
-INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.sty
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
@@ -211,6 +193,12 @@ INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\generic\kvdefinekeys\kvde
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\generic\pdfescape\pdfescape.sty
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\generic\pdfescape\pdfescape.sty
+INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\hycolor\hycolor.sty
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\hycolor\hycolor.sty
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\nameref.sty
@@ -221,6 +209,8 @@ INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\generic\gettitlestring\ge
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\generic\stringenc\stringenc.sty
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\generic\stringenc\stringenc.sty
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\pd1enc.def
@@ -244,6 +234,16 @@ INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\rerunfilecheck\reru
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\siunitx\siunitx.sty
+INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\siunitx\siunitx.sty
+INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\translations\translations.sty
+INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\translations\translations.sty
+INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\tocloft\tocloft.sty
+INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\tocloft\tocloft.sty
+INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.sty
+INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.sty
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.sty
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.sty
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\logreq\logreq.sty
@@ -256,21 +256,27 @@ INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-dm.def
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-dm.def
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-dm.def
+INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\apa.dbx
+INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\apa.dbx
+INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\apa.dbx
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-compat.def
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-compat.def
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-compat.def
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.def
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.def
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.def
-INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\numeric.bbx
-INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\numeric.bbx
-INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\numeric.bbx
+INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-natbib.def
+INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-natbib.def
+INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\blx-natbib.def
+INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\apa.bbx
+INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\apa.bbx
+INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\apa.bbx
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\bbx\standard.bbx
-INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\cbx\numeric.cbx
-INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\cbx\numeric.cbx
-INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\cbx\numeric.cbx
+INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\apa.cbx
+INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\apa.cbx
+INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\apa.cbx
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.cfg
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.cfg
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.cfg
@@ -309,9 +315,6 @@ INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-s
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\caption\ltcaption.sty
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\caption\ltcaption.sty
-INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\translations\dicts\translations-basic-dictionary-spanish.trsl
-INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\translations\dicts\translations-basic-dictionary-spanish.trsl
-INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\translations\dicts\translations-basic-dictionary-spanish.trsl
 INPUT h:\Mi unidad\Doctorado\Protocolo\Doctorado_Protocolo\build\main.out
 INPUT h:\Mi unidad\Doctorado\Protocolo\Doctorado_Protocolo\build\main.out
 INPUT h:\Mi unidad\Doctorado\Protocolo\Doctorado_Protocolo\build\main.out
@@ -320,6 +323,15 @@ OUTPUT h:\Mi unidad\Doctorado\Protocolo\Doctorado_Protocolo\build\main.pdf
 INPUT h:\Mi unidad\Doctorado\Protocolo\Doctorado_Protocolo\build\main.out
 INPUT h:\Mi unidad\Doctorado\Protocolo\Doctorado_Protocolo\build\main.out
 OUTPUT h:\Mi unidad\Doctorado\Protocolo\Doctorado_Protocolo\build\main.out
+INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\translations\dicts\translations-basic-dictionary-spanish.trsl
+INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\translations\dicts\translations-basic-dictionary-spanish.trsl
+INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\translations\dicts\translations-basic-dictionary-spanish.trsl
+INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\spanish-apa.lbx
+INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\spanish-apa.lbx
+INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-apa\spanish-apa.lbx
+INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
+INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
+INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
@@ -355,6 +367,16 @@ INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\base\8r.enc
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr8t.vf
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb8t.tfm
+INPUT .\peliminares\Resumen.tex
+INPUT .\peliminares\Resumen.tex
+INPUT peliminares\Resumen.tex
+INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmrc8t.tfm
+INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmb8t.vf
+INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb8r.tfm
+INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr8t.vf
+INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
+INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmrc8t.vf
+INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8t.tfm
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb8t.tfm
 INPUT h:\Mi unidad\Doctorado\Protocolo\Doctorado_Protocolo\build\main.toc
@@ -377,17 +399,31 @@ INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\sym
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmbc8t.tfm
 OUTPUT h:\Mi unidad\Doctorado\Protocolo\Doctorado_Protocolo\build\main.toc
-INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmrc8t.tfm
-INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmb8t.vf
+INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmbc8t.vf
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb8r.tfm
-INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmrc8t.vf
-INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
-INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
 INPUT .\capitulos\Introduccion.tex
 INPUT .\capitulos\Introduccion.tex
 INPUT capitulos\Introduccion.tex
-INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr8t.vf
+INPUT .\capitulos\Antecedentes\Antecedentes.tex
+INPUT .\capitulos\Antecedentes\Antecedentes.tex
+INPUT capitulos\Antecedentes\Antecedentes.tex
+INPUT .\Protocolo\Protocolo.tex
+INPUT .\Protocolo\Protocolo.tex
+INPUT Protocolo\Protocolo.tex
+INPUT .\capitulos\Metodologia\Metodologia.tex
+INPUT .\capitulos\Metodologia\Metodologia.tex
+INPUT capitulos\Metodologia\Metodologia.tex
+INPUT .\Protocolo\Cronograma.tex
+INPUT .\Protocolo\Cronograma.tex
+INPUT Protocolo\Cronograma.tex
+INPUT .\Protocolo\Recursos.tex
+INPUT .\Protocolo\Recursos.tex
+INPUT Protocolo\Recursos.tex
+INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmri8t.tfm
+INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmri8t.vf
+INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmri8r.tfm
 INPUT h:\Mi unidad\Doctorado\Protocolo\Doctorado_Protocolo\build\main.aux
 INPUT h:\Mi unidad\Doctorado\Protocolo\Doctorado_Protocolo\build\main.out
 INPUT h:\Mi unidad\Doctorado\Protocolo\Doctorado_Protocolo\build\main.out
@@ -397,3 +433,5 @@ INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\fonts\type1\urw\times\utmb8a.
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\fonts\type1\urw\times\utmb8a.pfb
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\fonts\type1\urw\times\utmr8a.pfb
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\fonts\type1\urw\times\utmr8a.pfb
+INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\fonts\type1\urw\times\utmri8a.pfb
+INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\fonts\type1\urw\times\utmri8a.pfb

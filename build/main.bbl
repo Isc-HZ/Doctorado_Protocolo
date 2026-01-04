@@ -1,0 +1,199 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global/global}
+    \entry{Li2026}{article}{}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=67048cdfca3bdc2a38d4ba40e8cb56c0}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Quan},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ab5652acf0de64074be2a35319b7c36a}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Qian},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f4a4cbf770add19c206827116c68732e}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Lei},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=76a971fb393ab5ba1fae1dbcbe3a642f}{%
+           family={Lang},
+           familyi={L\bibinitperiod},
+           given={Jinhua},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a227dab196f1ed039ac9ec6912f8a053}{%
+           family={Yuan},
+           familyi={Y\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e2a812b4a1e92483fac00757e8406df4}{%
+           family={An},
+           familyi={A\bibinitperiod},
+           given={Guangyao},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=128e2e54ad2ffdecc75180c38d3e2802}{%
+           family={Lei},
+           familyi={L\bibinitperiod},
+           given={Tongtong},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a5e1b93474a636a19ec036f13785f69e}{%
+           family={JunhaoYan},
+           familyi={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Pergamon}%
+      }
+      \strng{namehash}{cdba6f48846111c83a69b61d8477593d}
+      \strng{fullhash}{fdf37f44fd83e7fefa55adf408ab16e4}
+      \strng{fullhashraw}{fdf37f44fd83e7fefa55adf408ab16e4}
+      \strng{bibnamehash}{fdf37f44fd83e7fefa55adf408ab16e4}
+      \strng{authorbibnamehash}{fdf37f44fd83e7fefa55adf408ab16e4}
+      \strng{authornamehash}{cdba6f48846111c83a69b61d8477593d}
+      \strng{authorfullhash}{fdf37f44fd83e7fefa55adf408ab16e4}
+      \strng{authorfullhashraw}{fdf37f44fd83e7fefa55adf408ab16e4}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The widespread use of non-renewable energy sources (RESs) has resulted in serious environmental problems (e.g., global warming, the depletion of fossil fuels and glacier melting, etc.). As a carbon-free fuel, hydrogen (H2) represents one of the most promising energy carriers for future applications. It has a great potential to provide a power source for various energy devices (e.g., internal combustion engine (ICE), gas turbine (GT), fuel cell (FC), fuel cell electric vehicle (FCEV) and power systems, etc.). This review aims to synthesize the key technological advances in the hydrogen industry chain (HIC), including H2 production, purification, compression, transportation, storage and utilization, analyzing its industrialization status and future development trends. The main challenges faced with are also discussed in detail. Firstly, conventional and emerging green H2 production technologies are reviewed, with renewable energy hydrogen production offering certain environmental advantages and broad prospects. Secondly, a comprehensive comparison of purification methods is presented, with membrane separation technology being more attractive for hydrogen purification. Then, (non-) mechanical compression technologies designed specifically for H2 are explored. Among them, ionic liquid and linear compressors are more promising, while metal hydride compressors have unique advantages in purification and compression. In addition, the modern transportation and innovative storage methods of H2 are introduced. Finally, it provides an in-depth analysis of hydrogen energy future in transportation, aviation and power, offering valuable insights for promoting hydrogen energy. This review article possibly provides researchers and policymakers with a scientific, comprehensive and forward-looking reference for advancing the development of hydrogen energy.}
+      \field{issn}{1364-0321}
+      \field{journaltitle}{Renewable and Sustainable Energy Reviews}
+      \field{month}{1}
+      \field{title}{A comprehensive review of advances and challenges of hydrogen production, purification, compression, transportation, storage and utilization technology}
+      \field{volume}{226}
+      \field{year}{2026}
+      \field{pages}{116196}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/J.RSER.2025.116196
+      \endverb
+      \verb{urlraw}
+      \verb https://sciencedirect.bibliotecabuap.elogim.com/science/article/pii/S136403212500869X#bib61
+      \endverb
+      \verb{url}
+      \verb https://sciencedirect.bibliotecabuap.elogim.com/science/article/pii/S136403212500869X#bib61
+      \endverb
+      \keyw{Carbon peaking and carbon neutrality,Hydrogen,Hydrogen color,Industrial utilization,Renewable energy,Technology assessment}
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global/global}
+    \entry{Li2026}{article}{}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=67048cdfca3bdc2a38d4ba40e8cb56c0}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Quan},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ab5652acf0de64074be2a35319b7c36a}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Qian},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f4a4cbf770add19c206827116c68732e}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Lei},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=76a971fb393ab5ba1fae1dbcbe3a642f}{%
+           family={Lang},
+           familyi={L\bibinitperiod},
+           given={Jinhua},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a227dab196f1ed039ac9ec6912f8a053}{%
+           family={Yuan},
+           familyi={Y\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e2a812b4a1e92483fac00757e8406df4}{%
+           family={An},
+           familyi={A\bibinitperiod},
+           given={Guangyao},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=128e2e54ad2ffdecc75180c38d3e2802}{%
+           family={Lei},
+           familyi={L\bibinitperiod},
+           given={Tongtong},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a5e1b93474a636a19ec036f13785f69e}{%
+           family={JunhaoYan},
+           familyi={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Pergamon}%
+      }
+      \strng{namehash}{cdba6f48846111c83a69b61d8477593d}
+      \strng{fullhash}{fdf37f44fd83e7fefa55adf408ab16e4}
+      \strng{fullhashraw}{fdf37f44fd83e7fefa55adf408ab16e4}
+      \strng{bibnamehash}{fdf37f44fd83e7fefa55adf408ab16e4}
+      \strng{authorbibnamehash}{fdf37f44fd83e7fefa55adf408ab16e4}
+      \strng{authornamehash}{cdba6f48846111c83a69b61d8477593d}
+      \strng{authorfullhash}{fdf37f44fd83e7fefa55adf408ab16e4}
+      \strng{authorfullhashraw}{fdf37f44fd83e7fefa55adf408ab16e4}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The widespread use of non-renewable energy sources (RESs) has resulted in serious environmental problems (e.g., global warming, the depletion of fossil fuels and glacier melting, etc.). As a carbon-free fuel, hydrogen (H2) represents one of the most promising energy carriers for future applications. It has a great potential to provide a power source for various energy devices (e.g., internal combustion engine (ICE), gas turbine (GT), fuel cell (FC), fuel cell electric vehicle (FCEV) and power systems, etc.). This review aims to synthesize the key technological advances in the hydrogen industry chain (HIC), including H2 production, purification, compression, transportation, storage and utilization, analyzing its industrialization status and future development trends. The main challenges faced with are also discussed in detail. Firstly, conventional and emerging green H2 production technologies are reviewed, with renewable energy hydrogen production offering certain environmental advantages and broad prospects. Secondly, a comprehensive comparison of purification methods is presented, with membrane separation technology being more attractive for hydrogen purification. Then, (non-) mechanical compression technologies designed specifically for H2 are explored. Among them, ionic liquid and linear compressors are more promising, while metal hydride compressors have unique advantages in purification and compression. In addition, the modern transportation and innovative storage methods of H2 are introduced. Finally, it provides an in-depth analysis of hydrogen energy future in transportation, aviation and power, offering valuable insights for promoting hydrogen energy. This review article possibly provides researchers and policymakers with a scientific, comprehensive and forward-looking reference for advancing the development of hydrogen energy.}
+      \field{issn}{1364-0321}
+      \field{journaltitle}{Renewable and Sustainable Energy Reviews}
+      \field{month}{1}
+      \field{title}{A comprehensive review of advances and challenges of hydrogen production, purification, compression, transportation, storage and utilization technology}
+      \field{volume}{226}
+      \field{year}{2026}
+      \field{pages}{116196}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/J.RSER.2025.116196
+      \endverb
+      \verb{urlraw}
+      \verb https://sciencedirect.bibliotecabuap.elogim.com/science/article/pii/S136403212500869X#bib61
+      \endverb
+      \verb{url}
+      \verb https://sciencedirect.bibliotecabuap.elogim.com/science/article/pii/S136403212500869X#bib61
+      \endverb
+      \keyw{Carbon peaking and carbon neutrality,Hydrogen,Hydrogen color,Industrial utilization,Renewable energy,Technology assessment}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
