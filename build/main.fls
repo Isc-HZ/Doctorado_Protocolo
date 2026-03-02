@@ -1,7 +1,7 @@
-PWD h:\Mi unidad\Doctorado\Protocolo\Doctorado_Protocolo
+PWD h:\Mi unidad\Doctorado\001 - Documentos\001 - Admisión\003 - Protocolo\Protocolo\Doctorado_Protocolo
 INPUT C:\Users\isaac\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT h:\Mi unidad\Doctorado\Protocolo\Doctorado_Protocolo\main.tex
-OUTPUT h:\Mi unidad\Doctorado\Protocolo\Doctorado_Protocolo\build\main.log
+INPUT h:\Mi unidad\Doctorado\001 - Documentos\001 - Admisión\003 - Protocolo\Protocolo\Doctorado_Protocolo\main.tex
+OUTPUT h:\Mi unidad\Doctorado\001 - Documentos\001 - Admisión\003 - Protocolo\Protocolo\Doctorado_Protocolo\build\main.log
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
@@ -301,10 +301,10 @@ INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\t1ptm.fd
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\t1ptm.fd
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\t1ptm.fd
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8t.tfm
-INPUT h:\Mi unidad\Doctorado\Protocolo\Doctorado_Protocolo\build\main.aux
-INPUT h:\Mi unidad\Doctorado\Protocolo\Doctorado_Protocolo\build\main.aux
-INPUT h:\Mi unidad\Doctorado\Protocolo\Doctorado_Protocolo\build\main.aux
-OUTPUT h:\Mi unidad\Doctorado\Protocolo\Doctorado_Protocolo\build\main.aux
+INPUT h:\Mi unidad\Doctorado\001 - Documentos\001 - Admisión\003 - Protocolo\Protocolo\Doctorado_Protocolo\build\main.aux
+INPUT h:\Mi unidad\Doctorado\001 - Documentos\001 - Admisión\003 - Protocolo\Protocolo\Doctorado_Protocolo\build\main.aux
+INPUT h:\Mi unidad\Doctorado\001 - Documentos\001 - Admisión\003 - Protocolo\Protocolo\Doctorado_Protocolo\build\main.aux
+OUTPUT h:\Mi unidad\Doctorado\001 - Documentos\001 - Admisión\003 - Protocolo\Protocolo\Doctorado_Protocolo\build\main.aux
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -315,14 +315,14 @@ INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-s
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\caption\ltcaption.sty
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\caption\ltcaption.sty
-INPUT h:\Mi unidad\Doctorado\Protocolo\Doctorado_Protocolo\build\main.out
-INPUT h:\Mi unidad\Doctorado\Protocolo\Doctorado_Protocolo\build\main.out
-INPUT h:\Mi unidad\Doctorado\Protocolo\Doctorado_Protocolo\build\main.out
-INPUT h:\Mi unidad\Doctorado\Protocolo\Doctorado_Protocolo\build\main.out
-OUTPUT h:\Mi unidad\Doctorado\Protocolo\Doctorado_Protocolo\build\main.pdf
-INPUT h:\Mi unidad\Doctorado\Protocolo\Doctorado_Protocolo\build\main.out
-INPUT h:\Mi unidad\Doctorado\Protocolo\Doctorado_Protocolo\build\main.out
-OUTPUT h:\Mi unidad\Doctorado\Protocolo\Doctorado_Protocolo\build\main.out
+INPUT h:\Mi unidad\Doctorado\001 - Documentos\001 - Admisión\003 - Protocolo\Protocolo\Doctorado_Protocolo\build\main.out
+INPUT h:\Mi unidad\Doctorado\001 - Documentos\001 - Admisión\003 - Protocolo\Protocolo\Doctorado_Protocolo\build\main.out
+INPUT h:\Mi unidad\Doctorado\001 - Documentos\001 - Admisión\003 - Protocolo\Protocolo\Doctorado_Protocolo\build\main.out
+INPUT h:\Mi unidad\Doctorado\001 - Documentos\001 - Admisión\003 - Protocolo\Protocolo\Doctorado_Protocolo\build\main.out
+OUTPUT h:\Mi unidad\Doctorado\001 - Documentos\001 - Admisión\003 - Protocolo\Protocolo\Doctorado_Protocolo\build\main.pdf
+INPUT h:\Mi unidad\Doctorado\001 - Documentos\001 - Admisión\003 - Protocolo\Protocolo\Doctorado_Protocolo\build\main.out
+INPUT h:\Mi unidad\Doctorado\001 - Documentos\001 - Admisión\003 - Protocolo\Protocolo\Doctorado_Protocolo\build\main.out
+OUTPUT h:\Mi unidad\Doctorado\001 - Documentos\001 - Admisión\003 - Protocolo\Protocolo\Doctorado_Protocolo\build\main.out
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\translations\dicts\translations-basic-dictionary-spanish.trsl
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\translations\dicts\translations-basic-dictionary-spanish.trsl
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\translations\dicts\translations-basic-dictionary-spanish.trsl
@@ -335,12 +335,12 @@ INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\spanis
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\spanish.lbx
-OUTPUT h:\Mi unidad\Doctorado\Protocolo\Doctorado_Protocolo\build\main.bcf
-INPUT h:\Mi unidad\Doctorado\Protocolo\Doctorado_Protocolo\build\main.bbl
-INPUT h:\Mi unidad\Doctorado\Protocolo\Doctorado_Protocolo\build\main.bbl
-INPUT h:\Mi unidad\Doctorado\Protocolo\Doctorado_Protocolo\build\main.bbl
-INPUT h:\Mi unidad\Doctorado\Protocolo\Doctorado_Protocolo\build\main.bbl
-INPUT h:\Mi unidad\Doctorado\Protocolo\Doctorado_Protocolo\build\main.bbl
+OUTPUT h:\Mi unidad\Doctorado\001 - Documentos\001 - Admisión\003 - Protocolo\Protocolo\Doctorado_Protocolo\build\main.bcf
+INPUT h:\Mi unidad\Doctorado\001 - Documentos\001 - Admisión\003 - Protocolo\Protocolo\Doctorado_Protocolo\build\main.bbl
+INPUT h:\Mi unidad\Doctorado\001 - Documentos\001 - Admisión\003 - Protocolo\Protocolo\Doctorado_Protocolo\build\main.bbl
+INPUT h:\Mi unidad\Doctorado\001 - Documentos\001 - Admisión\003 - Protocolo\Protocolo\Doctorado_Protocolo\build\main.bbl
+INPUT h:\Mi unidad\Doctorado\001 - Documentos\001 - Admisión\003 - Protocolo\Protocolo\Doctorado_Protocolo\build\main.bbl
+INPUT h:\Mi unidad\Doctorado\001 - Documentos\001 - Admisión\003 - Protocolo\Protocolo\Doctorado_Protocolo\build\main.bbl
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8t.tfm
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8t.tfm
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
@@ -379,9 +379,9 @@ INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmrc8t.
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8t.tfm
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb8t.tfm
-INPUT h:\Mi unidad\Doctorado\Protocolo\Doctorado_Protocolo\build\main.toc
-INPUT h:\Mi unidad\Doctorado\Protocolo\Doctorado_Protocolo\build\main.toc
-INPUT h:\Mi unidad\Doctorado\Protocolo\Doctorado_Protocolo\build\main.toc
+INPUT h:\Mi unidad\Doctorado\001 - Documentos\001 - Admisión\003 - Protocolo\Protocolo\Doctorado_Protocolo\build\main.toc
+INPUT h:\Mi unidad\Doctorado\001 - Documentos\001 - Admisión\003 - Protocolo\Protocolo\Doctorado_Protocolo\build\main.toc
+INPUT h:\Mi unidad\Doctorado\001 - Documentos\001 - Admisión\003 - Protocolo\Protocolo\Doctorado_Protocolo\build\main.toc
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
@@ -400,7 +400,7 @@ INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\sym
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmbc8t.tfm
-OUTPUT h:\Mi unidad\Doctorado\Protocolo\Doctorado_Protocolo\build\main.toc
+OUTPUT h:\Mi unidad\Doctorado\001 - Documentos\001 - Admisión\003 - Protocolo\Protocolo\Doctorado_Protocolo\build\main.toc
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmbc8t.vf
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb8r.tfm
 INPUT .\capitulos\Introduccion.tex
@@ -424,11 +424,11 @@ INPUT Protocolo\Recursos.tex
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmri8t.tfm
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmri8t.vf
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmri8r.tfm
-INPUT h:\Mi unidad\Doctorado\Protocolo\Doctorado_Protocolo\build\main.aux
-INPUT h:\Mi unidad\Doctorado\Protocolo\Doctorado_Protocolo\build\main.out
-INPUT h:\Mi unidad\Doctorado\Protocolo\Doctorado_Protocolo\build\main.out
-INPUT h:\Mi unidad\Doctorado\Protocolo\Doctorado_Protocolo\build\main.run.xml
-OUTPUT h:\Mi unidad\Doctorado\Protocolo\Doctorado_Protocolo\build\main.run.xml
+INPUT h:\Mi unidad\Doctorado\001 - Documentos\001 - Admisión\003 - Protocolo\Protocolo\Doctorado_Protocolo\build\main.aux
+INPUT h:\Mi unidad\Doctorado\001 - Documentos\001 - Admisión\003 - Protocolo\Protocolo\Doctorado_Protocolo\build\main.out
+INPUT h:\Mi unidad\Doctorado\001 - Documentos\001 - Admisión\003 - Protocolo\Protocolo\Doctorado_Protocolo\build\main.out
+INPUT h:\Mi unidad\Doctorado\001 - Documentos\001 - Admisión\003 - Protocolo\Protocolo\Doctorado_Protocolo\build\main.run.xml
+OUTPUT h:\Mi unidad\Doctorado\001 - Documentos\001 - Admisión\003 - Protocolo\Protocolo\Doctorado_Protocolo\build\main.run.xml
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\fonts\type1\urw\times\utmb8a.pfb
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\fonts\type1\urw\times\utmb8a.pfb
 INPUT C:\Users\isaac\AppData\Local\Programs\MiKTeX\fonts\type1\urw\times\utmr8a.pfb
